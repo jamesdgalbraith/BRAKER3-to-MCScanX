@@ -7,14 +7,9 @@ A collection of scripts to:
 Has been successfully run on both on Linux and macOS
 
 ### Requirements
-BLAST+
-MCScanX (download from https://github.com/wyp1125/MCScanX, ensure it is in your path and any prequesites are installed)
+NCBI BLAST+, MCScanX (https://github.com/wyp1125/MCScanX)
 
-__R packages__
-tidyverse
-Biostrings
-plyranges
-optparse
+__R packages__: tidyverse, Biostrings, plyranges, optparse
 
 ### Scripts
 __BRAKER3-to-MCScanX.R__
